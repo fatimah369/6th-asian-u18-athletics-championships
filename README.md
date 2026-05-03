@@ -1,6 +1,6 @@
 # The 6th Asian U18 Athletics Championships — Project Showcase
 
-Single-page showcase site, built and delivered by **Mode Event**, documenting the operational scope and delivery of *The 6th Asian U18 Athletics Championships* (Saudi Arabia, 2025).
+Single-page showcase site, built and delivered by **Mood Event**, documenting the operational scope and delivery of *The 6th Asian U18 Athletics Championships* (Saudi Arabia, 2025).
 
 The page is served as a single static `index.html` file:
 
@@ -10,7 +10,7 @@ The page is served as a single static `index.html` file:
 - Six-card "Our Role" deliverable grid
 - Five-stage execution timeline
 - Impact pull-quote
-- Mode Event footer with a "Work With Us" CTA
+- Mood Event footer with a "Work With Us" CTA
 
 ## Design system
 
