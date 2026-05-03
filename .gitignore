@@ -1,0 +1,22 @@
+# Source assets — kept outside the repo (the logo is embedded as base64 inside index.html)
+*.pdf
+*.pptx
+logo.b64.txt
+logo.png
+logo_full.png
+logo_embed_*.*
+
+# Build helper scripts
+extract.py
+extract2.py
+extract3.py
+extract4.py
+build.py
+colors.py
+
+# Local Claude config
+.claude/
+
+# OS
+Thumbs.db
+.DS_Store
